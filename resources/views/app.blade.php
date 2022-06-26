@@ -31,7 +31,7 @@
         @endif
 
     </div> --}}
-    <example-component></example-component>
+    <example-component />
 </div>
 
 <!-- Scripts -->
